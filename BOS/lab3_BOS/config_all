@@ -1,0 +1,61 @@
+BRIDJE TG-link !!!!!!!!!!!!!!!
+7
+s1 s
+s2 s
+s3 s
+o1 o
+o2 o
+o3 o
+o4 o
+s1-o1:t
+s1-s2:g
+s2-s1:g
+o1-s2:t
+o1-o2:t
+o2-o3:t
+o3-o4:t
+o4-s3:t
+
+DE URE!!!!!!!!!!!!!
+4
+s1 s
+s2 s
+s3 s
+o1 o
+s1-s2:t
+s2-s3:g
+s2-o1:r
+
+
+DE FACTO!!!!!!!!!!!
+SPY
+3
+s1 s
+s2 s
+s3 s
+s1-s2:r
+s2-s3:r
+
+FIND
+3
+s1 s
+s2 s
+s3 s
+s1-s2:w
+s2-s3:w
+
+POST
+3
+s1 s
+s2 s
+s3 s
+s1-s2:r
+s3-s2:w
+
+PASS
+3
+s1 s
+s2 s
+s3 s
+s2-s1:w
+s2-s3:r

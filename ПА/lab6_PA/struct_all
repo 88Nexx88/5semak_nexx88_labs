@@ -1,0 +1,12 @@
+q0,a,eps;q0,aaa
+q0,a,a;q0,aaaa
+q0,b,a;q1,eps
+q1,b,a;q1,eps
+q1,eps,eps;q2,eps
+q0;q2
+
+q,a,eps;q,b
+q,b,b;q,a
+q,a,a;q,b
+q,eps,a;f,eps
+q;f
